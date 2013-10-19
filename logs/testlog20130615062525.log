@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-06-15T18:25:25</date>
+  <millis>1371313525376</millis>
+  <sequence>0</sequence>
+  <logger>OCAJ Logger</logger>
+  <level>INFO</level>
+  <class>at.indra_prasnikar.example_1_1.TestClass</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Mitschreiben</message>
+</record>
+</log>
